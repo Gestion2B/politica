@@ -60,5 +60,5 @@ Podemos actualizar nuestra Política de Privacidad de vez en cuando. Le notifica
 ## 8. Contacto
 
 Si tiene alguna pregunta sobre esta Política de Privacidad o sobre el tratamiento de sus datos, póngase en contacto con el departamento técnico:
-* **Correo electrónico:** informatica@grupomonzon.com (o vuestro correo directo)
+* **Correo electrónico:** informatica@grupomonzon.com 
 * **Sitio web:** https://grupomonzon.com
